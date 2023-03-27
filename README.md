@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorfigueiredo1995/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511948270823)
 
-<a href="https://github.com/viitorfigueiredo">
+<a href="https://github.com/figueiredo-vitor">
  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=viitorfigueiredo&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viitorfigueiredo&layout=compact&langs_count=7&theme=react" /></br>
  
