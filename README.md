@@ -19,5 +19,5 @@
 </div><br/>
 
 <div> Apaixonado por tecnologia.   🖥️  <div/><br/>
-<div> Estudando Análise e Desenvolvimento de Sistemas.   📚 <div/><br/>
+<div> Estudando Análise e Desenvolvimento de Sistemas, na Fatec ITU.   📚 <div/><br/>
 <div> Futuro programador full stack.   💻 <div/><br/>
